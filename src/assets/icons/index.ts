@@ -1,0 +1,9 @@
+export { default as Facebook } from "./Facebook.icon";
+export { default as FacialCleansing } from "./FacialCleansing.icon";
+export { default as Instagram } from "./Instagram.icon";
+export { default as Nail } from "./Nail.icon";
+export { default as Pedicure } from "./Pedicure.icon";
+export { default as Polish } from "./Polish.icon";
+export { default as Scissors } from "./Scissors.icon";
+export { default as Waxing } from "./Waxing.icon";
+export { default as Whatsapp } from "./Whatsapp.icon";
