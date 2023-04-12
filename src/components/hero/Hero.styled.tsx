@@ -13,7 +13,7 @@ export const ImageContainer = styled.div`
   flex: 1 1 auto;
   img {
     max-width: 1400px;
-    height: 100vh;
+
     position: absolute;
     bottom: 0;
     left: -150px;

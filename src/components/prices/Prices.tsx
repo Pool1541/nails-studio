@@ -8,7 +8,7 @@ import {
   MainContainer,
   PricesContainer,
 } from "./Prices.styled";
-import image from "../../assets/images/nails.jpg";
+import image from "../../assets/images/nails.webp";
 import { mock } from "../../content/mock";
 
 export default function Prices() {

@@ -26,7 +26,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     font-weight: 500;
     min-height: 100vh;
-    background-color: var(--white);
+    background-color: var(--dim-gray);
     color: var(--white);
   }
 

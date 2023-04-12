@@ -14,7 +14,7 @@ import {
   Sumary,
   TextWrapper,
 } from "./Services.styled";
-import image from "../../assets/images/beauty-salon.jpg";
+import image from "../../assets/images/beauty-salon.webp";
 import { Subtitle } from "../Subtitle.styled";
 
 export default function Servicios() {

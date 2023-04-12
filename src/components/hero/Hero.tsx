@@ -4,14 +4,14 @@ import {
   IntroductionContainer,
   Introduction,
 } from "./Hero.styled";
-import image from "../../assets/images/bryony-elena-KZKbGgQPCtU-unsplash-transformed.png";
+import image from "../../assets/images/background-nails.webp";
 import Button from "../button/Button";
 
 export default function Hero() {
   return (
     <StyledSection>
       <ImageContainer>
-        <img src={image} />
+        <img src={image} alt="background hand with beautiful nails" />
       </ImageContainer>
       <IntroductionContainer>
         <Introduction>
