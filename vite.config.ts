@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
+  base: "https://pool1541.github.io/nails-studio",
 });
